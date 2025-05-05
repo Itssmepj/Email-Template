@@ -65,17 +65,18 @@ body {
     color: #ffffff;
     text-decoration: none;
     border-radius: 30px;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 .button:hover {
     background: #aae034;
     color: #000;
+    transition: 0.3s;
 }
 
 .sir-marketer-img {
     width: 100%;
-    max-width: 484px;
+    max-width: 450px;
     border-radius: 12px;
     margin: 35px auto;
     display: block;
